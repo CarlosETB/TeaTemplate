@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="300px" src="./src/assets/Logo/Logo.png" alt="Logo">
+    <img height="300px" src="./src/assets/Logotype/Logo.png" alt="Logo">
   <h2 align="center">Tea Template</h3>
 </p>
 
