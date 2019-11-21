@@ -4,9 +4,9 @@ import styled from 'styled-components/native'
 import { StatusBar } from 'react-native'
 import { getStatusBarHeight } from 'react-native-iphone-x-helper'
 
-import AppNavigator from './src/routes'
+import AppNavigator from './routes'
 
-import { color } from './src/helpers/colors'
+import { color } from './helpers/colors'
 
 
 export default function App() {
