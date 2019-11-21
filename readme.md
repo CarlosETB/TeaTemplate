@@ -22,7 +22,7 @@ Antes de usar em algum projeto, se atente às informações abaixo:
 A estrutura de arquivos está organizada da seguinte forma:
 
 ```bash
-    rocketseat-advanced
+    TeaTemplate
     ├── src/
     │   │
     │   ├── assets/
