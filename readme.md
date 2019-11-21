@@ -1,6 +1,6 @@
 <p align="center">
-    <img height="300px" src="./src/assets/Logotype/Logo.png" alt="Logo">
-  <h2 align="center">Tea Template</h3>
+    <img height="250px" src="https://i.imgur.com/bhNJn9I.jpg" alt="Logo">
+  <h3 align="center">Tea Template</h3>
 </p>
 
 <br />
