@@ -1,9 +1,22 @@
+
+<!-- PROJECT SHIELDS -->
+
+[![npm](https://img.shields.io/npm/v/react-native-template-tea-template.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-tea-template)
+[![npm](https://img.shields.io/npm/dt/react-native-template-tea-template.svg)](https://www.npmjs.com/package/react-native-template-tea-template)
+[![GitHub issues](https://img.shields.io/github/issues-raw/CarlosETB/TeaTemplate.svg)](https://github.com/CarlosETB/TeaTemplate/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CarlosETB/TeaTemplate.svg)](https://github.com/CarlosETB/TeaTemplate/commits/master)
+[![NPM](https://img.shields.io/npm/l/react-native-template-tea-template.svg)](https://choosealicense.com/licenses/mit/)
+
+<!-- PROJECT LOGO -->
+
 <p align="center">
     <img height="250px" src="https://i.imgur.com/bhNJn9I.jpg" alt="Logo">
   <h3 align="center">Tea Template</h3>
 </p>
 
 <br />
+
+<!-- TABLE OF CONTENTS -->
 
 ## Tabela de Conteúdo
 
@@ -17,11 +30,15 @@
 
 <br />
 
+<!-- ABOUT THE PROJECT -->
+
 ## Sobre o Projeto
 
 Um template com o objetivo de acelerar o processo de criação de um projeto, disponibilizando ferramentas como styled-components e absolute path ja configuradas e uma estrutura de projeto bem definida.
 
 <br />
+
+<!-- USING -->
 
 ## Utilizando
 
@@ -72,11 +89,13 @@ A estrutura de arquivos está organizada da seguinte forma:
     │   │ 
     │   └── index.js
     │
-    ├── .eslintrc.js
+    ├── .eslintrc.json
     │
     ├── .gitattributes
     │
     ├── .gitignore
+    │
+    ├── babel.config.js
     │
     ├── dependencies.json
     │
@@ -84,11 +103,13 @@ A estrutura de arquivos está organizada da seguinte forma:
     │
     ├── index.js
     │
+    ├── jsconfig.json
+    │
     ├── LICENSE
     │
     ├── package.json
     │
-    └── README.md
+    └── readme.md
 ```
 
 <br />
@@ -106,6 +127,8 @@ A estrutura de arquivos está organizada da seguinte forma:
 Com isso o projeto será criado com todas as dependências do template devidamente instaladas e linkadas, tal como os arquivos de configuração que são copiados para o projeto.
 
 <br />
+
+<!-- LICENSE -->
 
 ## Licença
 
