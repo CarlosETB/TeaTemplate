@@ -11,7 +11,7 @@ Um template com o objetivo de acelerar o processo de criação de um projeto, di
 
 <br />
 
-## Ultilizando
+## Utilizando
 
 Antes de usar em algum projeto, se atente às informações abaixo:
 
