@@ -1,7 +1,7 @@
 {
-  "name": "react-native-template-tea-template",
-  "version": "0.0.9",
-  "repository": "https://github.com/CarlosETB/TeaTemplate",
+  "name": "react-native-template-tea",
+  "version": "0.1.0",
+  "repository": "https://github.com/CarlosETB/react-native-template-tea",
   "author": "Carlos Tonholi <carloseduardotonholi@gmail.com>",
   "contributors": [
     "Fabio Ramatis <me@framatis.com> (https://framatis.com)"
