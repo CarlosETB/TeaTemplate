@@ -1,1 +1,1 @@
-export const Logo = require('../../assets/Logo/Logo.png')
+export const Logo = require('~/assets/Logo/Logo.png')

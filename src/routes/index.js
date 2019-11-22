@@ -4,7 +4,7 @@ import React from 'react'
 import { createAppContainer, createSwitchNavigator } from 'react-navigation'
 import { createStackNavigator } from 'react-navigation-stack'
 
-import MainPage from '../pages/Main'
+import MainPage from '~/pages/Main'
 
 const AppNavigator = createStackNavigator({
   Main: {

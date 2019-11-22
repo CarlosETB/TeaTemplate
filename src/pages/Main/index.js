@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container, Title, Text, Image } from './styles'
-import { Logo } from '../../helpers/images'
+import { Logo } from '~/helpers/images'
 
 export default function MainPage() {
 

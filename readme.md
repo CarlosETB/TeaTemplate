@@ -5,13 +5,25 @@
 
 <br />
 
+## Tabela de Conteúdo
+
+- [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Utilizando](#utilizando)
+  - [Estrutura de Arquivos](#estrutura-de-arquivos)
+  - [Instalação](#instala%C3%A7%C3%A3o)
+- [Licença](#licen%C3%A7a)
+
+
+<br />
+
 ## Sobre o Projeto
 
 Um template com o objetivo de acelerar o processo de criação de um projeto, disponibilizando ferramentas como styled-components e absolute path ja configuradas e uma estrutura de projeto bem definida.
 
 <br />
 
-## Ultilizando
+## Utilizando
 
 Antes de usar em algum projeto, se atente às informações abaixo:
 
@@ -23,7 +35,10 @@ A estrutura de arquivos está organizada da seguinte forma:
 
 ```bash
     TeaTemplate
+    │
     ├── src/
+    │   │
+    │   ├── api/
     │   │
     │   ├── assets/
     │   │   │
@@ -32,6 +47,8 @@ A estrutura de arquivos está organizada da seguinte forma:
     │   │       └── Logo.png
     │   │
     │   ├── components/
+    │   │
+    │   ├── config/
     │   │
     │   ├── helpers/
     │   │   │
